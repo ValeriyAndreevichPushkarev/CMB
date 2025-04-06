@@ -35,3 +35,5 @@ Works perfectly with charge-based logical elements.
 
 Can works even with transistors (TTL).
 (In-memory computing)
+
+You can change charge density with light :).
