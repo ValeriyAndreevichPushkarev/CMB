@@ -37,3 +37,12 @@ Can works even with transistors (TTL).
 (In-memory computing)
 
 You can change charge density with light :).
+
+## Charge-based memory element
+
+And here is more "obvious" version of that element.
+![image](https://github.com/user-attachments/assets/8e2b16d8-e402-496c-97d4-d349ea3915cf)
+
+Of cause, you can simply remove "Write enable" to get bistable element.
+
+![image](https://github.com/user-attachments/assets/a2d73e83-5ae7-4392-a459-ad1d8c00be33)
