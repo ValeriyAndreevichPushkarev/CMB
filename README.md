@@ -40,6 +40,10 @@ You can change charge density with light :).
 
 Or even turn off and turn on leds (to make [Shadow zone](https://github.com/ValeriyAndreevichPushkarev/ShadowZone)).
 
+Everyone heard about that (50 shades of gray, Lightsaber and so on).
+ 
+Its like Covid vaccine, my dear Fags (https://youtu.be/g8OcwZo_6G4?t=190) - FUNNY AS FUCK! (or convulsions from lack of oxygen, im think its They/Them should decide(!)) xDDD
+ 
 ## Charge-based memory element
 
 And here is more "obvious" version of that element.
