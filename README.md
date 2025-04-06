@@ -46,3 +46,7 @@ And here is more "obvious" version of that element.
 Of cause, you can simply remove "Write enable" to get bistable element.
 
 ![image](https://github.com/user-attachments/assets/a2d73e83-5ae7-4392-a459-ad1d8c00be33)
+
+## Oversimplified charge-based memory element
+
+![image](https://github.com/user-attachments/assets/2808bf5a-4dab-4a41-96f4-5ebaa7d6ba7c)
