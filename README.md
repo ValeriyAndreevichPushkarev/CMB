@@ -1,4 +1,4 @@
-# CMB
+# CBM
 ## Charge-based memory element
 
 Here is example of charge-based memory element.
